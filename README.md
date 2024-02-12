@@ -9,7 +9,8 @@
 - 🕹️ I’m gamedev
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&layout=compact&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&layout=compact&theme=omni&progress=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&hide_progress=true)-->
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
