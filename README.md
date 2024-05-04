@@ -8,8 +8,9 @@
 - 🐍 I’m currently learning python
 - 🕹️ I’m gamedev
 
-##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&layout=compact&theme=omni&progress=true)
+## Languages and Tools ⚒️
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&layout=compact&theme=dark&progress=true)
+<!-- theme=omni -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ynictrl&hide_progress=true)-->
 
 <div style="display: inline_block">
