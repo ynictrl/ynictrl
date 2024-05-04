@@ -1,7 +1,7 @@
 ## Hey! I'm Nicolas 🤙
 
 <div style="display: inline_block">
-  <img align="right" alt="Nami-Chopper" src="https://media1.tenor.com/m/H2vdePpK7r0AAAAC/one-piece-nami.gif">
+  <!--<img align="right" alt="Nami-Chopper" src="https://media1.tenor.com/m/H2vdePpK7r0AAAAC/one-piece-nami.gif">-->
 </div>
 
 - 🌎 I’m geophysics student
